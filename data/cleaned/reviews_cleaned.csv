@@ -1,0 +1,351 @@
+id,title,body,department,sentiment,cleaned_body
+1,Non male,Nel complesso il soggiorno è stato molto piacevole. La camera era molto curata.. Struttura ben tenuta,Housekeeping,positivo,complesso soggiorno stato molto piacevole camera molto curata struttura ben tenuta
+2,Servizio eccellente,Ho trascorso un eccellente soggiorno. Stanza ordinata e ben sistemata.,Housekeeping,positivo,trascorso eccellente soggiorno stanza ordinata ben sistemata
+3,Ottimo soggiorno,Pulizia impeccabile. Consigliato.,Housekeeping,positivo,pulizia impeccabile consigliato
+4,Non male,Ho trascorso un eccellente soggiorno. Il bagno era perfettamente pulito.,Housekeeping,positivo,trascorso eccellente soggiorno bagno perfettamente pulito
+5,Molto soddisfatto,Lenzuola fresche e cambiate ogni giorno. Consigliato.. Servizio migliorabile,Housekeeping,positivo,lenzuola fresche cambiate ogni giorno consigliato servizio migliorabile
+6,Molto soddisfatto,Ho trascorso un ottimo soggiorno. La stanza veniva pulita puntualmente. (nel weekend). Struttura ben tenuta,Housekeeping,positivo,trascorso ottimo soggiorno stanza veniva pulita puntualmente weekend struttura ben tenuta
+7,Molto soddisfatto,Ho trascorso un ottimo soggiorno. Ambiente curato e profumato.,Housekeeping,positivo,trascorso ottimo soggiorno ambiente curato profumato
+8,Molto soddisfatto,Tutto era in ordine all'arrivo. Consigliato.,Housekeeping,positivo,ordine allarrivo consigliato
+9,Stanza curata,Asciugamani puliti e cambiati regolarmente. Tornerei volentieri.,Housekeeping,positivo,asciugamani puliti cambiati regolarmente tornerei volentieri
+10,Esperienza positiva,La pulizia della stanza era eccellente. Consigliato. (nel weekend). Prezzo nella media,Housekeeping,positivo,pulizia stanza eccellente consigliato weekend prezzo media
+11,Deludente,Mi aspettavo molto di più. La stanza era sporca. Non credo tornerò. (con la mia famiglia). Servizio migliorabile,Housekeeping,negativo,aspettavo molto stanza sporca credo tornerò famiglia servizio migliorabile
+12,Esperienza ok,Soggiorno deludente. Pulizia insufficiente.,Housekeeping,negativo,soggiorno deludente pulizia insufficiente
+13,Deludente,Mi aspettavo molto di più. Ho trovato capelli nel bagno.. Struttura ben tenuta,Housekeeping,negativo,aspettavo molto trovato capelli bagno struttura ben tenuta
+14,Stanza trascurata,Purtroppo l'esperienza non è stata all'altezza. Il pavimento non era stato lavato. Da migliorare.. Prezzo nella media,Housekeeping,negativo,purtroppo lesperienza stata allaltezza pavimento stato lavato migliorare prezzo media
+15,Pessima esperienza,Stanza non in ordine al momento del check-in. Da migliorare.,Housekeeping,negativo,stanza ordine momento checkin migliorare
+16,Non ci siamo,"Mi aspettavo molto di più. Polvere ovunque nella stanza, improponibile.",Housekeeping,negativo,aspettavo molto polvere ovunque stanza improponibile
+17,Il bagno aveva da rivedere,Purtroppo l'esperienza non è stata all'altezza. Il bagno aveva aloni e macchie.,Housekeeping,negativo,purtroppo lesperienza stata allaltezza bagno aloni macchie
+18,Problemi con il servizio,"Le lenzuola non erano state cambiate, che schifo.. Struttura ben tenuta",Housekeeping,negativo,lenzuola state cambiate schifo struttura ben tenuta
+19,Esperienza negativa,Purtroppo l'esperienza non è stata all'altezza. Cattivo odore nella stanza. Da migliorare.,Housekeeping,negativo,purtroppo lesperienza stata allaltezza cattivo odore stanza migliorare
+20,Ci aspettavamo di più,Mi aspettavo molto di più. La pulizia lasciava molto a desiderare.,Housekeeping,negativo,aspettavo molto pulizia lasciava molto desiderare
+21,Esperienza con il servizio,"Soggiorno deludente. Camera davvero trascurata. Però, staff sempre pronto ad aiutare. Non credo tornerò.. Servizio migliorabile",Housekeeping,negativo,soggiorno deludente camera davvero trascurata però staff sempre pronto aiutare credo tornerò servizio migliorabile
+22,Pulizia pessima e da rivedere,Purtroppo l'esperienza non è stata all'altezza. Pulizia pessima e stanza disordinata.,Housekeeping,negativo,purtroppo lesperienza stata allaltezza pulizia pessima stanza disordinata
+23,Esperienza ok,Mi aspettavo molto di più. Bagno sporco e poco igienico. Non credo tornerò. (in alta stagione). Struttura ben tenuta,Housekeeping,negativo,aspettavo molto bagno sporco poco igienico credo tornerò alta stagione struttura ben tenuta
+24,Servizio eccellente,Check-in veloce e personale cordiale. (per una notte). Prezzo nella media,Reception,positivo,checkin veloce personale cordiale notte prezzo media
+25,Tutto perfetto,Esperienza generalmente positiva. Reception molto disponibile.,Reception,positivo,esperienza generalmente positiva reception molto disponibile
+26,Esperienza con il servizio,Servizio accoglienza eccellente. (per una notte). Prezzo nella media,Reception,positivo,servizio accoglienza eccellente notte prezzo media
+27,Buona esperienza,Il personale ci ha accolti calorosamente. (con la mia famiglia). Servizio migliorabile,Reception,positivo,personale accolti calorosamente famiglia servizio migliorabile
+28,Buona esperienza,"Check-out rapido e senza problemi, receptionist molto simpatico.. Servizio migliorabile",Reception,positivo,checkout rapido senza problemi receptionist molto simpatico servizio migliorabile
+29,Staff fantastico,Staff sempre pronto ad aiutare. Tornerei volentieri.. Servizio migliorabile,Reception,positivo,staff sempre pronto aiutare tornerei volentieri servizio migliorabile
+30,Accoglienza eccellente,Esperienza generalmente positiva. Personale cordiale e professionale. Tornerei volentieri.. Prezzo nella media,Reception,positivo,esperienza generalmente positiva personale cordiale professionale tornerei volentieri prezzo media
+31,Tutto perfetto,"Ho trascorso un eccellente soggiorno. Risposta rapida a ogni richiesta. Nonostante ciò, bagno trascurato e poco igienico.. Servizio migliorabile",Reception,positivo,trascorso eccellente soggiorno risposta rapida ogni richiesta nonostante ciò bagno trascurato poco igienico servizio migliorabile
+32,Check-in perfetto,Esperienza generalmente positiva. Il receptionist ci ha dato ottime indicazioni.,Reception,positivo,esperienza generalmente positiva receptionist dato ottime indicazioni
+33,Esperienza con il servizio,Nessun problema con prenotazione e pagamento.. Prezzo nella media,Reception,positivo,nessun problema prenotazione pagamento prezzo media
+34,Meh,Attesa lunga al check-in. Da migliorare.,Reception,negativo,attesa lunga checkin migliorare
+35,Sconsigliato,Mi aspettavo molto di più. Personale scortese alla reception.,Reception,negativo,aspettavo molto personale scortese reception
+36,Deludente,Soggiorno deludente. Problemi con il pagamento.,Reception,negativo,soggiorno deludente problemi pagamento
+37,Staff scortese,Mi aspettavo molto di più. Nessuno alla reception all'arrivo. (in alta stagione),Reception,negativo,aspettavo molto nessuno reception allarrivo alta stagione
+38,Così così esperienza,Soggiorno deludente. Check-in caotico e disorganizzato.. Struttura ben tenuta,Reception,negativo,soggiorno deludente checkin caotico disorganizzato struttura ben tenuta
+39,Problemi con il servizio,Mi aspettavo molto di più. Il personale era poco disponibile.. Servizio migliorabile,Reception,negativo,aspettavo molto personale poco disponibile servizio migliorabile
+40,Staff scortese,Purtroppo l'esperienza non è stata all'altezza. Errore nella prenotazione non risolto. Non credo tornerò.,Reception,negativo,purtroppo lesperienza stata allaltezza errore prenotazione risolto credo tornerò
+41,Meh,Soggiorno deludente. Tempi di attesa eccessivi. Da migliorare.. Servizio migliorabile,Reception,negativo,soggiorno deludente tempi attesa eccessivi migliorare servizio migliorabile
+42,Accoglienza pessima,Mi aspettavo molto di più. Staff poco professionale.,Reception,negativo,aspettavo molto staff poco professionale
+43,Problemi con il servizio,Mi aspettavo molto di più. Risposta lenta alle richieste.,Reception,negativo,aspettavo molto risposta lenta richieste
+44,Esperienza ok,Mi aspettavo molto di più. Personale maleducato e arrogante. (nel weekend). Prezzo nella media,Reception,negativo,aspettavo molto personale maleducato arrogante weekend prezzo media
+45,Problemi con il servizio,Receptionist molto indisponente. Da migliorare.. Servizio migliorabile,Reception,negativo,receptionist molto indisponente migliorare servizio migliorabile
+46,Sconsigliato,Staff poco educato.,Reception,negativo,staff poco educato
+47,Accoglienza pessima,Purtroppo l'esperienza non è stata all'altezza. Comportamento davvero scortese.,Reception,negativo,purtroppo lesperienza stata allaltezza comportamento davvero scortese
+48,Molto soddisfatto,"Ho trascorso un ottimo soggiorno. Colazione abbondante e varia, fantasici i pancakes.",F&B,positivo,trascorso ottimo soggiorno colazione abbondante varia fantasici pancakes
+49,Molto soddisfatto,Esperienza generalmente positiva. Cibo eccellente e ben servito. Consigliato. (nel weekend). Struttura ben tenuta,F&B,positivo,esperienza generalmente positiva cibo eccellente ben servito consigliato weekend struttura ben tenuta
+50,Molto soddisfatto,Ho trascorso un eccellente soggiorno. Ristorante di alta qualità.. Prezzo nella media,F&B,positivo,trascorso eccellente soggiorno ristorante alta qualità prezzo media
+51,Esperienza con il servizio,Esperienza generalmente positiva. Buffet ricco e sempre rifornito.,F&B,positivo,esperienza generalmente positiva buffet ricco sempre rifornito
+52,Tutto perfetto,Esperienza generalmente positiva. Pietanze fresche e ben preparate. Consigliato.. Prezzo nella media,F&B,positivo,esperienza generalmente positiva pietanze fresche ben preparate consigliato prezzo media
+53,Molto soddisfatto,Il menu era vario e gustoso.,F&B,positivo,menu vario gustoso
+54,Esperienza ok,Esperienza generalmente positiva. Ottima scelta di dolci a colazione. (per una notte). Servizio migliorabile,F&B,positivo,esperienza generalmente positiva ottima scelta dolci colazione notte servizio migliorabile
+55,Cibo eccellente,Ho trascorso un eccellente soggiorno. Il ristorante aveva un'ottima atmosfera.,F&B,positivo,trascorso eccellente soggiorno ristorante unottima atmosfera
+56,Ottimo soggiorno,Porzioni abbondanti e prezzi onesti. Consigliato. (per lavoro). Servizio migliorabile,F&B,positivo,porzioni abbondanti prezzi onesti consigliato lavoro servizio migliorabile
+57,Ottimo soggiorno,Personale del ristorante attento e veloce. Tornerei volentieri.,F&B,positivo,personale ristorante attento veloce tornerei volentieri
+58,Problemi con il servizio,Colazione scarsa. Da migliorare.,F&B,negativo,colazione scarsa migliorare
+59,Esperienza negativa,Purtroppo l'esperienza non è stata all'altezza. Cibo freddo e di bassa qualità.,F&B,negativo,purtroppo lesperienza stata allaltezza cibo freddo bassa qualità
+60,Problemi con il servizio,"Mi aspettavo molto di più. Servizio lento al ristorante. Però, servizio accoglienza eccellente. (per lavoro). Struttura ben tenuta",F&B,negativo,aspettavo molto servizio lento ristorante però servizio accoglienza eccellente lavoro struttura ben tenuta
+61,Colazione deludente,"Poca scelta al buffet. Nonostante ciò, la stanza veniva ben sistemata puntualmente. Non credo tornerò.",F&B,negativo,poca scelta buffet nonostante ciò stanza veniva ben sistemata puntualmente credo tornerò
+62,Cibo scadente e da rivedere,Soggiorno deludente. Cibo scadente e mal presentato.,F&B,negativo,soggiorno deludente cibo scadente mal presentato
+63,Deludente,Purtroppo l'esperienza non è stata all'altezza. Il ristorante era sempre sovraffollato. Da migliorare.. Struttura ben tenuta,F&B,negativo,purtroppo lesperienza stata allaltezza ristorante sempre sovraffollato migliorare struttura ben tenuta
+64,Problemi con il servizio,Tempi di attesa troppo lunghi per ordinare. Da migliorare.,F&B,negativo,tempi attesa troppo lunghi ordinare migliorare
+65,Sconsigliato,Purtroppo l'esperienza non è stata all'altezza. Pietanze fredde e poco fresche .,F&B,negativo,purtroppo lesperienza stata allaltezza pietanze fredde poco fresche
+66,Meh,"Menu limitato e ripetitivo. Tuttavia, risposta rapida a ogni richiesta.",F&B,negativo,menu limitato ripetitivo tuttavia risposta rapida ogni richiesta
+67,Esperienza negativa,Mi aspettavo molto di più. Il personale del ristorante era disattento. Non credo tornerò.. Struttura ben tenuta,F&B,negativo,aspettavo molto personale ristorante disattento credo tornerò struttura ben tenuta
+68,Esperienza con il servizio,Mi aspettavo molto di più. Cibo davvero mediocre.,F&B,negativo,aspettavo molto cibo davvero mediocre
+69,Esperienza ok,Soggiorno deludente. Esperienza deludente al ristorante.. Struttura ben tenuta,F&B,negativo,soggiorno deludente esperienza deludente ristorante struttura ben tenuta
+70,Cibo scadente,Mi aspettavo molto di più. Piatti arrivati freddi e in ritardo. Non credo tornerò. (durante un viaggio veloce). Prezzo nella media,F&B,negativo,aspettavo molto piatti arrivati freddi ritardo credo tornerò durante viaggio veloce prezzo media
+71,Camera impeccabile,Tutto era in ordine all'arrivo. Consigliato.,Housekeeping,positivo,ordine allarrivo consigliato
+72,Servizio eccellente,Esperienza generalmente positiva. La pulizia della stanza era eccellente. Consigliato.. Prezzo nella media,Housekeeping,positivo,esperienza generalmente positiva pulizia stanza eccellente consigliato prezzo media
+73,Molto soddisfatto,Ho trascorso un molto buono soggiorno. La pulizia della stanza era eccellente. Tornerei volentieri.. Servizio migliorabile,Housekeeping,positivo,trascorso molto buono soggiorno pulizia stanza eccellente tornerei volentieri servizio migliorabile
+74,Esperienza positiva,Nel complesso il soggiorno è stato molto piacevole. Stanza ordinata e ben sistemata. Tornerei volentieri.. Prezzo nella media,Housekeeping,positivo,complesso soggiorno stato molto piacevole stanza ordinata ben sistemata tornerei volentieri prezzo media
+75,Buona esperienza,Ho trascorso un ottimo soggiorno. Ambiente curato e profumato.. Prezzo nella media,Housekeeping,positivo,trascorso ottimo soggiorno ambiente curato profumato prezzo media
+76,Ottimo soggiorno,Nel complesso il soggiorno è stato molto piacevole. La stanza veniva pulita puntualmente.,Housekeeping,positivo,complesso soggiorno stato molto piacevole stanza veniva pulita puntualmente
+77,Servizio eccellente,Nel complesso il soggiorno è stato molto piacevole. Tutto era in ordine all'arrivo.,Housekeeping,positivo,complesso soggiorno stato molto piacevole ordine allarrivo
+78,Molto soddisfatto,Pulizia impeccabile.,Housekeeping,positivo,pulizia impeccabile
+79,Esperienza positiva,Nel complesso il soggiorno è stato molto piacevole. La pulizia della stanza era eccellente. Consigliato. (in alta stagione). Servizio migliorabile,Housekeeping,positivo,complesso soggiorno stato molto piacevole pulizia stanza eccellente consigliato alta stagione servizio migliorabile
+80,Camera impeccabile,Nel complesso il soggiorno è stato molto piacevole. La stanza veniva curata puntualmente.. Servizio migliorabile,Housekeeping,positivo,complesso soggiorno stato molto piacevole stanza veniva curata puntualmente servizio migliorabile
+81,Esperienza ok,Ho trascorso un ottimo soggiorno. La pulizia della stanza era eccellente.,Housekeeping,positivo,trascorso ottimo soggiorno pulizia stanza eccellente
+82,Stanza curata,Ho trascorso un ottimo soggiorno. La stanza veniva ben sistemata puntualmente.,Housekeeping,positivo,trascorso ottimo soggiorno stanza veniva ben sistemata puntualmente
+83,Esperienza con il servizio,Pulizia impeccabile. Consigliato.. Struttura ben tenuta,Housekeeping,positivo,pulizia impeccabile consigliato struttura ben tenuta
+84,Buona esperienza,Esperienza generalmente positiva. Stanza ordinata e ben sistemata.,Housekeeping,positivo,esperienza generalmente positiva stanza ordinata ben sistemata
+85,Esperienza ok,Ho trascorso un ottimo soggiorno. Lenzuola fresche e cambiate ogni giorno. Tornerei volentieri.,Housekeeping,positivo,trascorso ottimo soggiorno lenzuola fresche cambiate ogni giorno tornerei volentieri
+86,Pulizia ottima,Nel complesso il soggiorno è stato molto piacevole. La pulizia della stanza era eccellente. Consigliato. (nel weekend),Housekeeping,positivo,complesso soggiorno stato molto piacevole pulizia stanza eccellente consigliato weekend
+87,Esperienza ok,Ho trascorso un molto buono soggiorno. La camera era molto in ordine. (in alta stagione). Servizio migliorabile,Housekeeping,positivo,trascorso molto buono soggiorno camera molto ordine alta stagione servizio migliorabile
+88,Molto soddisfatto,Stanza ordinata e ben sistemata. Tornerei volentieri.,Housekeeping,positivo,stanza ordinata ben sistemata tornerei volentieri
+89,Non male,Esperienza generalmente positiva. Asciugamani puliti e cambiati regolarmente.,Housekeeping,positivo,esperienza generalmente positiva asciugamani puliti cambiati regolarmente
+90,Tutto perfetto,La stanza veniva pulita puntualmente. (in alta stagione),Housekeeping,positivo,stanza veniva pulita puntualmente alta stagione
+91,Molto soddisfatto,Ambiente curato e profumato. Consigliato.. Servizio migliorabile,Housekeeping,positivo,ambiente curato profumato consigliato servizio migliorabile
+92,Esperienza positiva,"Il bagno era perfettamente pulito. Però, personale scortese alla reception. (con la mia famiglia). Struttura ben tenuta",Housekeeping,positivo,bagno perfettamente pulito però personale scortese reception famiglia struttura ben tenuta
+93,Servizio eccellente,Ho trascorso un ottimo soggiorno. Il bagno era perfettamente pulito.,Housekeeping,positivo,trascorso ottimo soggiorno bagno perfettamente pulito
+94,Esperienza ok,Nel complesso il soggiorno è stato molto piacevole. Il bagno era perfettamente pulito.,Housekeeping,positivo,complesso soggiorno stato molto piacevole bagno perfettamente pulito
+95,Top!,Ambiente curato e profumato.. Servizio migliorabile,Housekeeping,positivo,ambiente curato profumato servizio migliorabile
+96,Esperienza ok,"Ambiente curato e profumato. Tuttavia, piatti arrivati freddi e in ritardo.",Housekeeping,positivo,ambiente curato profumato tuttavia piatti arrivati freddi ritardo
+97,Servizio eccellente,Il bagno era perfettamente pulito. Tornerei volentieri.,Housekeeping,positivo,bagno perfettamente pulito tornerei volentieri
+98,Ottimo soggiorno,Ho trascorso un eccellente soggiorno. La stanza veniva ben sistemata puntualmente. (con la mia famiglia),Housekeeping,positivo,trascorso eccellente soggiorno stanza veniva ben sistemata puntualmente famiglia
+99,Pulizia ottima,Ho trascorso un molto buono soggiorno. Ambiente curato e profumato.,Housekeeping,positivo,trascorso molto buono soggiorno ambiente curato profumato
+100,Molto soddisfatto,Asciugamani puliti e cambiati regolarmente.,Housekeeping,positivo,asciugamani puliti cambiati regolarmente
+101,Così così esperienza,La stanza era sporca. Non credo tornerò.,Housekeeping,negativo,stanza sporca credo tornerò
+102,Esperienza con il servizio,Soggiorno deludente. Stanza non in ordine al momento del check-in. Non credo tornerò.. Prezzo nella media,Housekeeping,negativo,soggiorno deludente stanza ordine momento checkin credo tornerò prezzo media
+103,Sconsigliato,Mi aspettavo molto di più. Il pavimento non era stato lavato.,Housekeeping,negativo,aspettavo molto pavimento stato lavato
+104,Deludente,Cattivo odore nella stanza. Da migliorare.,Housekeeping,negativo,cattivo odore stanza migliorare
+105,Non ci siamo,Purtroppo l'esperienza non è stata all'altezza. Pulizia pessima e stanza disordinata.,Housekeeping,negativo,purtroppo lesperienza stata allaltezza pulizia pessima stanza disordinata
+106,Sconsigliato,Purtroppo l'esperienza non è stata all'altezza. Il pavimento non era stato lavato.,Housekeeping,negativo,purtroppo lesperienza stata allaltezza pavimento stato lavato
+107,Così così esperienza,Soggiorno deludente. Pulizia insufficiente. Non credo tornerò.. Servizio migliorabile,Housekeeping,negativo,soggiorno deludente pulizia insufficiente credo tornerò servizio migliorabile
+108,Così così esperienza,"Mi aspettavo molto di più. Le lenzuola non erano state cambiate, che schifo.",Housekeeping,negativo,aspettavo molto lenzuola state cambiate schifo
+109,Esperienza ok,"Ho trovato capelli nel bagno. Però, il menu era vario e gustoso.",Housekeeping,negativo,trovato capelli bagno però menu vario gustoso
+110,Deludente,Cattivo odore nella stanza.,Housekeeping,negativo,cattivo odore stanza
+111,Esperienza negativa,Mi aspettavo molto di più. Cattivo odore nella stanza.. Prezzo nella media,Housekeeping,negativo,aspettavo molto cattivo odore stanza prezzo media
+112,Pulizia insufficiente,"Polvere ovunque nella stanza, improponibile. Da migliorare.",Housekeeping,negativo,polvere ovunque stanza improponibile migliorare
+113,Esperienza ok,Mi aspettavo molto di più. Pulizia insufficiente.,Housekeeping,negativo,aspettavo molto pulizia insufficiente
+114,Deludente,Soggiorno deludente. La stanza era sporca. Da migliorare. (durante un viaggio veloce),Housekeeping,negativo,soggiorno deludente stanza sporca migliorare durante viaggio veloce
+115,Deludente,"Polvere ovunque nella stanza, improponibile. Da migliorare. (in alta stagione)",Housekeeping,negativo,polvere ovunque stanza improponibile migliorare alta stagione
+116,Esperienza negativa,Mi aspettavo molto di più. La stanza era sporca. Da migliorare. (durante un viaggio veloce). Prezzo nella media,Housekeeping,negativo,aspettavo molto stanza sporca migliorare durante viaggio veloce prezzo media
+117,Sconsigliato,Stanza non pulita al momento del check-in. (per una notte). Prezzo nella media,Housekeeping,negativo,stanza pulita momento checkin notte prezzo media
+118,Esperienza negativa,"Soggiorno deludente. Polvere ovunque nella stanza, improponibile. (durante un viaggio veloce)",Housekeeping,negativo,soggiorno deludente polvere ovunque stanza improponibile durante viaggio veloce
+119,Esperienza ok,Mi aspettavo molto di più. Ho trovato capelli nel bagno. Da migliorare. (con la mia famiglia),Housekeeping,negativo,aspettavo molto trovato capelli bagno migliorare famiglia
+120,Sconsigliato,Mi aspettavo molto di più. Stanza non in ordine al momento del check-in.,Housekeeping,negativo,aspettavo molto stanza ordine momento checkin
+121,Deludente,Soggiorno deludente. Cattivo odore nella stanza.,Housekeeping,negativo,soggiorno deludente cattivo odore stanza
+122,Pulizia insufficiente,Soggiorno deludente. Camera davvero trascurata.,Housekeeping,negativo,soggiorno deludente camera davvero trascurata
+123,Deludente,Bagno trascurato e poco igienico.. Struttura ben tenuta,Housekeeping,negativo,bagno trascurato poco igienico struttura ben tenuta
+124,Problemi con il servizio,Il bagno aveva aloni e macchie. Non credo tornerò.. Struttura ben tenuta,Housekeeping,negativo,bagno aloni macchie credo tornerò struttura ben tenuta
+125,Esperienza negativa,Soggiorno deludente. Pulizia insufficiente. (nel weekend),Housekeeping,negativo,soggiorno deludente pulizia insufficiente weekend
+126,Deludente,Purtroppo l'esperienza non è stata all'altezza. La pulizia lasciava molto a desiderare.,Housekeeping,negativo,purtroppo lesperienza stata allaltezza pulizia lasciava molto desiderare
+127,Esperienza negativa,"Le lenzuola non erano state cambiate, che schifo. (per lavoro). Prezzo nella media",Housekeeping,negativo,lenzuola state cambiate schifo lavoro prezzo media
+128,Polvere ovunque nella da rivedere,"Soggiorno deludente. Polvere ovunque nella stanza, improponibile.",Housekeeping,negativo,soggiorno deludente polvere ovunque stanza improponibile
+129,La stanza era da rivedere,"La stanza era sporca. Tuttavia, cibo eccellente e ben servito. Non credo tornerò.",Housekeeping,negativo,stanza sporca tuttavia cibo eccellente ben servito credo tornerò
+130,Esperienza ok,Il pavimento non era stato lavato.,Housekeeping,negativo,pavimento stato lavato
+131,Esperienza positiva,Nel complesso il soggiorno è stato molto piacevole. Risposta rapida a ogni richiesta.,Reception,positivo,complesso soggiorno stato molto piacevole risposta rapida ogni richiesta
+132,Molto soddisfatto,Ho trascorso un ottimo soggiorno. Il receptionist ci ha dato ottime indicazioni. (durante un viaggio veloce). Struttura ben tenuta,Reception,positivo,trascorso ottimo soggiorno receptionist dato ottime indicazioni durante viaggio veloce struttura ben tenuta
+133,Tutto perfetto,Nessun problema con prenotazione e pagamento. Consigliato. (in alta stagione). Servizio migliorabile,Reception,positivo,nessun problema prenotazione pagamento consigliato alta stagione servizio migliorabile
+134,Ottimo soggiorno,Nel complesso il soggiorno è stato molto piacevole. Il receptionist ci ha dato ottime indicazioni.,Reception,positivo,complesso soggiorno stato molto piacevole receptionist dato ottime indicazioni
+135,Tutto perfetto,Esperienza generalmente positiva. Servizio accoglienza eccellente. Consigliato.. Struttura ben tenuta,Reception,positivo,esperienza generalmente positiva servizio accoglienza eccellente consigliato struttura ben tenuta
+136,Esperienza con il servizio,Nel complesso il soggiorno è stato molto piacevole. Check-in veloce e personale disponibile.,Reception,positivo,complesso soggiorno stato molto piacevole checkin veloce personale disponibile
+137,Servizio eccellente,Ho trascorso un eccellente soggiorno. Reception molto disponibile. Tornerei volentieri.. Struttura ben tenuta,Reception,positivo,trascorso eccellente soggiorno reception molto disponibile tornerei volentieri struttura ben tenuta
+138,Buona esperienza,Il receptionist ci ha dato ottime indicazioni.,Reception,positivo,receptionist dato ottime indicazioni
+139,Buona esperienza,"Personale cordiale e professionale. Però, esperienza deludente al ristorante.",Reception,positivo,personale cordiale professionale però esperienza deludente ristorante
+140,Staff fantastico,Ho trascorso un ottimo soggiorno. Il receptionist ci ha dato ottime indicazioni.. Servizio migliorabile,Reception,positivo,trascorso ottimo soggiorno receptionist dato ottime indicazioni servizio migliorabile
+141,Molto soddisfatto,Nel complesso il soggiorno è stato molto piacevole. Reception molto disponibile. Consigliato.,Reception,positivo,complesso soggiorno stato molto piacevole reception molto disponibile consigliato
+142,Tutto perfetto,"Esperienza generalmente positiva. Staff sempre pronto ad aiutare. Però, colazione scarsa. (durante un viaggio veloce). Prezzo nella media",Reception,positivo,esperienza generalmente positiva staff sempre pronto aiutare però colazione scarsa durante viaggio veloce prezzo media
+143,Tutto perfetto,"Ho trascorso un molto buono soggiorno. Staff sempre pronto ad aiutare. Però, polvere ovunque nella stanza, improponibile. (in alta stagione). Servizio migliorabile",Reception,positivo,trascorso molto buono soggiorno staff sempre pronto aiutare però polvere ovunque stanza improponibile alta stagione servizio migliorabile
+144,Accoglienza eccellente,Esperienza generalmente positiva. Servizio accoglienza eccellente. Consigliato.. Servizio migliorabile,Reception,positivo,esperienza generalmente positiva servizio accoglienza eccellente consigliato servizio migliorabile
+145,Tutto perfetto,Esperienza generalmente positiva. Risposta rapida a ogni richiesta. Tornerei volentieri.. Servizio migliorabile,Reception,positivo,esperienza generalmente positiva risposta rapida ogni richiesta tornerei volentieri servizio migliorabile
+146,Top!,Il personale ci ha accolti calorosamente. Tornerei volentieri.,Reception,positivo,personale accolti calorosamente tornerei volentieri
+147,Molto soddisfatto,Nel complesso il soggiorno è stato molto piacevole. Risposta rapida a ogni richiesta. Consigliato. (con la mia famiglia),Reception,positivo,complesso soggiorno stato molto piacevole risposta rapida ogni richiesta consigliato famiglia
+148,Esperienza ok,Esperienza generalmente positiva. Check-in veloce e personale cordiale.. Servizio migliorabile,Reception,positivo,esperienza generalmente positiva checkin veloce personale cordiale servizio migliorabile
+149,Tutto perfetto,Reception molto disponibile. Consigliato.. Struttura ben tenuta,Reception,positivo,reception molto disponibile consigliato struttura ben tenuta
+150,Esperienza con il servizio,Ho trascorso un molto buono soggiorno. Personale cordiale e professionale.,Reception,positivo,trascorso molto buono soggiorno personale cordiale professionale
+151,Buona esperienza,Il personale ci ha accolti calorosamente. (per una notte),Reception,positivo,personale accolti calorosamente notte
+152,Servizio eccellente,Ho trascorso un ottimo soggiorno. Nessun problema con prenotazione e pagamento.,Reception,positivo,trascorso ottimo soggiorno nessun problema prenotazione pagamento
+153,Servizio eccellente,Esperienza generalmente positiva. Staff sempre pronto ad aiutare. (nel weekend),Reception,positivo,esperienza generalmente positiva staff sempre pronto aiutare weekend
+154,Molto soddisfatto,Esperienza generalmente positiva. Reception molto disponibile.,Reception,positivo,esperienza generalmente positiva reception molto disponibile
+155,Esperienza positiva,"Check-out rapido e senza problemi, receptionist molto simpatico.. Prezzo nella media",Reception,positivo,checkout rapido senza problemi receptionist molto simpatico prezzo media
+156,Tutto perfetto,Esperienza generalmente positiva. Risposta rapida a ogni richiesta.,Reception,positivo,esperienza generalmente positiva risposta rapida ogni richiesta
+157,Ottimo soggiorno,Nel complesso il soggiorno è stato molto piacevole. Personale cordiale e professionale.,Reception,positivo,complesso soggiorno stato molto piacevole personale cordiale professionale
+158,Servizio eccellente,Ho trascorso un ottimo soggiorno. Il personale ci ha accolti calorosamente. Tornerei volentieri.. Struttura ben tenuta,Reception,positivo,trascorso ottimo soggiorno personale accolti calorosamente tornerei volentieri struttura ben tenuta
+159,Molto soddisfatto,Esperienza generalmente positiva. Reception molto disponibile. (durante un viaggio veloce),Reception,positivo,esperienza generalmente positiva reception molto disponibile durante viaggio veloce
+160,Esperienza ok,Esperienza generalmente positiva. Reception molto disponibile. Tornerei volentieri.,Reception,positivo,esperienza generalmente positiva reception molto disponibile tornerei volentieri
+161,Esperienza ok,Comportamento davvero scortese. Da migliorare.. Struttura ben tenuta,Reception,negativo,comportamento davvero scortese migliorare struttura ben tenuta
+162,Non ci siamo,Purtroppo l'esperienza non è stata all'altezza. Check-in caotico e disorganizzato. (per lavoro),Reception,negativo,purtroppo lesperienza stata allaltezza checkin caotico disorganizzato lavoro
+163,Deludente,Purtroppo l'esperienza non è stata all'altezza. Personale scortese alla reception.,Reception,negativo,purtroppo lesperienza stata allaltezza personale scortese reception
+164,Non ci siamo,"Soggiorno deludente. Risposta lenta alle richieste. Nonostante ciò, pulizia impeccabile.. Struttura ben tenuta",Reception,negativo,soggiorno deludente risposta lenta richieste nonostante ciò pulizia impeccabile struttura ben tenuta
+165,Esperienza negativa,"Purtroppo l'esperienza non è stata all'altezza. Nessuno alla reception all'arrivo. Però, la camera era molto curata. Da migliorare. (nel weekend). Servizio migliorabile",Reception,negativo,purtroppo lesperienza stata allaltezza nessuno reception allarrivo però camera molto curata migliorare weekend servizio migliorabile
+166,Esperienza negativa,Mi aspettavo molto di più. Tempi di attesa eccessivi.,Reception,negativo,aspettavo molto tempi attesa eccessivi
+167,Errore nella prenotazione da rivedere,Errore nella prenotazione non risolto. Non credo tornerò.,Reception,negativo,errore prenotazione risolto credo tornerò
+168,Sconsigliato,Soggiorno deludente. Receptionist molto indisponente.,Reception,negativo,soggiorno deludente receptionist molto indisponente
+169,Attesa lunga al da rivedere,Attesa lunga al check-in. (per lavoro),Reception,negativo,attesa lunga checkin lavoro
+170,Deludente,Soggiorno deludente. Nessuno alla reception all'arrivo. Da migliorare. (per lavoro). Struttura ben tenuta,Reception,negativo,soggiorno deludente nessuno reception allarrivo migliorare lavoro struttura ben tenuta
+171,Ci aspettavamo di più,Attesa lunga al check-in.,Reception,negativo,attesa lunga checkin
+172,Problemi con il servizio,Il personale era poco disponibile. (durante un viaggio veloce),Reception,negativo,personale poco disponibile durante viaggio veloce
+173,Problemi con il servizio,Risposta lenta alle richieste. Non credo tornerò. (per una notte). Prezzo nella media,Reception,negativo,risposta lenta richieste credo tornerò notte prezzo media
+174,Sconsigliato,Check-in caotico e disorganizzato.. Struttura ben tenuta,Reception,negativo,checkin caotico disorganizzato struttura ben tenuta
+175,Accoglienza pessima,Purtroppo l'esperienza non è stata all'altezza. Risposta lenta alle richieste.. Prezzo nella media,Reception,negativo,purtroppo lesperienza stata allaltezza risposta lenta richieste prezzo media
+176,Deludente,Purtroppo l'esperienza non è stata all'altezza. Problemi con il pagamento.. Struttura ben tenuta,Reception,negativo,purtroppo lesperienza stata allaltezza problemi pagamento struttura ben tenuta
+177,Staff poco educato da rivedere,Purtroppo l'esperienza non è stata all'altezza. Staff poco educato. (per una notte). Prezzo nella media,Reception,negativo,purtroppo lesperienza stata allaltezza staff poco educato notte prezzo media
+178,Esperienza negativa,Purtroppo l'esperienza non è stata all'altezza. Check-in caotico e disorganizzato.. Prezzo nella media,Reception,negativo,purtroppo lesperienza stata allaltezza checkin caotico disorganizzato prezzo media
+179,Esperienza negativa,Purtroppo l'esperienza non è stata all'altezza. Tempi di attesa eccessivi. Da migliorare. (con la mia famiglia). Servizio migliorabile,Reception,negativo,purtroppo lesperienza stata allaltezza tempi attesa eccessivi migliorare famiglia servizio migliorabile
+180,Accoglienza pessima,Soggiorno deludente. Il personale era poco disponibile. (con la mia famiglia). Prezzo nella media,Reception,negativo,soggiorno deludente personale poco disponibile famiglia prezzo media
+181,Problemi con il servizio,Soggiorno deludente. Problemi con il pagamento.,Reception,negativo,soggiorno deludente problemi pagamento
+182,Problemi con il servizio,Purtroppo l'esperienza non è stata all'altezza. Receptionist molto indisponente. Da migliorare.,Reception,negativo,purtroppo lesperienza stata allaltezza receptionist molto indisponente migliorare
+183,Esperienza negativa,Personale scortese alla reception. Non credo tornerò.,Reception,negativo,personale scortese reception credo tornerò
+184,Esperienza con il servizio,Staff poco professionale.. Servizio migliorabile,Reception,negativo,staff poco professionale servizio migliorabile
+185,Check-in caotico e da rivedere,"Check-in caotico e disorganizzato. Tuttavia, porzioni abbondanti e prezzi onesti. (in alta stagione). Servizio migliorabile",Reception,negativo,checkin caotico disorganizzato tuttavia porzioni abbondanti prezzi onesti alta stagione servizio migliorabile
+186,Ci aspettavamo di più,Soggiorno deludente. Attesa lunga al check-in. (per lavoro). Servizio migliorabile,Reception,negativo,soggiorno deludente attesa lunga checkin lavoro servizio migliorabile
+187,Sconsigliato,Mi aspettavo molto di più. Personale scortese alla reception.,Reception,negativo,aspettavo molto personale scortese reception
+188,Esperienza ok,Soggiorno deludente. Errore nella prenotazione non risolto. Non credo tornerò.,Reception,negativo,soggiorno deludente errore prenotazione risolto credo tornerò
+189,Deludente,Soggiorno deludente. Errore nella prenotazione non risolto. Non credo tornerò.. Struttura ben tenuta,Reception,negativo,soggiorno deludente errore prenotazione risolto credo tornerò struttura ben tenuta
+190,Esperienza negativa,Mi aspettavo molto di più. Staff poco educato.,Reception,negativo,aspettavo molto staff poco educato
+191,Buona esperienza,Personale del ristorante attento e veloce. Tornerei volentieri.,F&B,positivo,personale ristorante attento veloce tornerei volentieri
+192,Non male,Ho trascorso un molto buono soggiorno. Buffet ricco e sempre rifornito.,F&B,positivo,trascorso molto buono soggiorno buffet ricco sempre rifornito
+193,Molto soddisfatto,Ho trascorso un ottimo soggiorno. Pietanze fresche e ben preparate. (con la mia famiglia),F&B,positivo,trascorso ottimo soggiorno pietanze fresche ben preparate famiglia
+194,Esperienza ok,Buffet ricco e sempre rifornito.. Servizio migliorabile,F&B,positivo,buffet ricco sempre rifornito servizio migliorabile
+195,Top!,Personale del ristorante attento e veloce.,F&B,positivo,personale ristorante attento veloce
+196,Servizio eccellente,Esperienza generalmente positiva. Personale del ristorante attento e veloce.,F&B,positivo,esperienza generalmente positiva personale ristorante attento veloce
+197,Esperienza ok,Esperienza generalmente positiva. Personale del ristorante attento e veloce.,F&B,positivo,esperienza generalmente positiva personale ristorante attento veloce
+198,Molto soddisfatto,Ho trascorso un ottimo soggiorno. Cibo ottimo e ben servito. Consigliato.. Servizio migliorabile,F&B,positivo,trascorso ottimo soggiorno cibo ottimo ben servito consigliato servizio migliorabile
+199,Molto soddisfatto,Ho trascorso un eccellente soggiorno. Porzioni abbondanti e prezzi onesti.,F&B,positivo,trascorso eccellente soggiorno porzioni abbondanti prezzi onesti
+200,Ottimo soggiorno,Esperienza generalmente positiva. Personale del ristorante attento e veloce. Consigliato.. Struttura ben tenuta,F&B,positivo,esperienza generalmente positiva personale ristorante attento veloce consigliato struttura ben tenuta
+201,Esperienza positiva,Ho trascorso un molto buono soggiorno. Ottima scelta di dolci a colazione.,F&B,positivo,trascorso molto buono soggiorno ottima scelta dolci colazione
+202,Esperienza con il servizio,Esperienza generalmente positiva. Personale del ristorante attento e veloce. Consigliato.. Struttura ben tenuta,F&B,positivo,esperienza generalmente positiva personale ristorante attento veloce consigliato struttura ben tenuta
+203,Non male,Ho trascorso un molto buono soggiorno. Porzioni abbondanti e prezzi onesti. Consigliato. (durante un viaggio veloce). Struttura ben tenuta,F&B,positivo,trascorso molto buono soggiorno porzioni abbondanti prezzi onesti consigliato durante viaggio veloce struttura ben tenuta
+204,Non male,Ho trascorso un ottimo soggiorno. Porzioni abbondanti e prezzi onesti.. Servizio migliorabile,F&B,positivo,trascorso ottimo soggiorno porzioni abbondanti prezzi onesti servizio migliorabile
+205,Ristorante consigliato,"Ho trascorso un eccellente soggiorno. Colazione abbondante e varia, fantasici i pancakes. Consigliato.. Servizio migliorabile",F&B,positivo,trascorso eccellente soggiorno colazione abbondante varia fantasici pancakes consigliato servizio migliorabile
+206,Top!,Esperienza generalmente positiva. Il menu era vario e gustoso.. Struttura ben tenuta,F&B,positivo,esperienza generalmente positiva menu vario gustoso struttura ben tenuta
+207,Cibo eccellente,"Colazione abbondante e varia, fantasici i pancakes. Nonostante ciò, errore nella prenotazione non risolto.",F&B,positivo,colazione abbondante varia fantasici pancakes nonostante ciò errore prenotazione risolto
+208,Servizio eccellente,Esperienza generalmente positiva. Personale del ristorante attento e veloce. Tornerei volentieri.,F&B,positivo,esperienza generalmente positiva personale ristorante attento veloce tornerei volentieri
+209,Esperienza positiva,Esperienza generalmente positiva. Ottima scelta di dolci a colazione.,F&B,positivo,esperienza generalmente positiva ottima scelta dolci colazione
+210,Esperienza con il servizio,Cibo eccellente e ben servito. Tornerei volentieri.,F&B,positivo,cibo eccellente ben servito tornerei volentieri
+211,Buona esperienza,Esperienza generalmente positiva. Il menu era vario e gustoso. Consigliato.. Servizio migliorabile,F&B,positivo,esperienza generalmente positiva menu vario gustoso consigliato servizio migliorabile
+212,Top!,Nel complesso il soggiorno è stato molto piacevole. Ristorante di alta qualità.,F&B,positivo,complesso soggiorno stato molto piacevole ristorante alta qualità
+213,Top!,"Esperienza generalmente positiva. Colazione abbondante e varia, fantasici i pancakes.. Servizio migliorabile",F&B,positivo,esperienza generalmente positiva colazione abbondante varia fantasici pancakes servizio migliorabile
+214,Non male,"Esperienza generalmente positiva. Colazione abbondante e varia, fantasici i pancakes.",F&B,positivo,esperienza generalmente positiva colazione abbondante varia fantasici pancakes
+215,Esperienza positiva,Ho trascorso un molto buono soggiorno. Il menu era vario e gustoso. Consigliato.. Prezzo nella media,F&B,positivo,trascorso molto buono soggiorno menu vario gustoso consigliato prezzo media
+216,Ottimo soggiorno,"Ho trascorso un molto buono soggiorno. Buffet ricco e sempre rifornito. Però, problemi con il pagamento.",F&B,positivo,trascorso molto buono soggiorno buffet ricco sempre rifornito però problemi pagamento
+217,Colazione ottima,Ho trascorso un molto buono soggiorno. Ottima scelta di dolci a colazione.,F&B,positivo,trascorso molto buono soggiorno ottima scelta dolci colazione
+218,Top!,"Esperienza generalmente positiva. Colazione abbondante e varia, fantasici i pancakes.. Prezzo nella media",F&B,positivo,esperienza generalmente positiva colazione abbondante varia fantasici pancakes prezzo media
+219,Top!,Ottima scelta di dolci a colazione.,F&B,positivo,ottima scelta dolci colazione
+220,Servizio eccellente,"Esperienza generalmente positiva. Pietanze fresche e ben preparate. Nonostante ciò, le lenzuola non erano state cambiate, che schifo. (durante un viaggio veloce). Struttura ben tenuta",F&B,positivo,esperienza generalmente positiva pietanze fresche ben preparate nonostante ciò lenzuola state cambiate schifo durante viaggio veloce struttura ben tenuta
+221,Meh,Mi aspettavo molto di più. Il ristorante era sempre sovraffollato.,F&B,negativo,aspettavo molto ristorante sempre sovraffollato
+222,Problemi con il servizio,Il ristorante era sempre sovraffollato.,F&B,negativo,ristorante sempre sovraffollato
+223,Problemi con il servizio,"Tempi di attesa troppo lunghi per ordinare. Nonostante ciò, il personale ci ha accolti calorosamente. Da migliorare.. Struttura ben tenuta",F&B,negativo,tempi attesa troppo lunghi ordinare nonostante ciò personale accolti calorosamente migliorare struttura ben tenuta
+224,Colazione deludente,Cibo freddo e di bassa qualità.. Struttura ben tenuta,F&B,negativo,cibo freddo bassa qualità struttura ben tenuta
+225,Esperienza negativa,Menu limitato e ripetitivo.. Struttura ben tenuta,F&B,negativo,menu limitato ripetitivo struttura ben tenuta
+226,Meh,Mi aspettavo molto di più. Poca scelta al buffet. (nel weekend). Struttura ben tenuta,F&B,negativo,aspettavo molto poca scelta buffet weekend struttura ben tenuta
+227,Ci aspettavamo di più,Mi aspettavo molto di più. Cibo freddo e di bassa qualità.. Servizio migliorabile,F&B,negativo,aspettavo molto cibo freddo bassa qualità servizio migliorabile
+228,Esperienza negativa,Mi aspettavo molto di più. Cibo davvero mediocre.,F&B,negativo,aspettavo molto cibo davvero mediocre
+229,Così così esperienza,Cibo scadente e mal presentato. Non credo tornerò. (in alta stagione). Servizio migliorabile,F&B,negativo,cibo scadente mal presentato credo tornerò alta stagione servizio migliorabile
+230,Non ci siamo,Il personale del ristorante era disattento.. Servizio migliorabile,F&B,negativo,personale ristorante disattento servizio migliorabile
+231,Non ci siamo,Soggiorno deludente. Esperienza deludente al ristorante.. Prezzo nella media,F&B,negativo,soggiorno deludente esperienza deludente ristorante prezzo media
+232,Non ci siamo,Soggiorno deludente. Menu limitato e ripetitivo.,F&B,negativo,soggiorno deludente menu limitato ripetitivo
+233,Deludente,Purtroppo l'esperienza non è stata all'altezza. Cibo scadente e mal presentato.,F&B,negativo,purtroppo lesperienza stata allaltezza cibo scadente mal presentato
+234,Così così esperienza,Purtroppo l'esperienza non è stata all'altezza. Cibo freddo e di bassa qualità. Da migliorare. (in alta stagione),F&B,negativo,purtroppo lesperienza stata allaltezza cibo freddo bassa qualità migliorare alta stagione
+235,Esperienza ok,Mi aspettavo molto di più. Cibo davvero mediocre.,F&B,negativo,aspettavo molto cibo davvero mediocre
+236,Non ci siamo,Mi aspettavo molto di più. Piatti arrivati freddi e in ritardo. Da migliorare. (con la mia famiglia),F&B,negativo,aspettavo molto piatti arrivati freddi ritardo migliorare famiglia
+237,Esperienza negativa,Mi aspettavo molto di più. Piatti arrivati freddi e in ritardo. Non credo tornerò.. Servizio migliorabile,F&B,negativo,aspettavo molto piatti arrivati freddi ritardo credo tornerò servizio migliorabile
+238,Pietanze fredde e da rivedere,Pietanze fredde e poco fresche . .,F&B,negativo,pietanze fredde poco fresche
+239,Esperienza negativa,"Piatti arrivati freddi e in ritardo. Nonostante ciò, risposta rapida a ogni richiesta.",F&B,negativo,piatti arrivati freddi ritardo nonostante ciò risposta rapida ogni richiesta
+240,Deludente,Purtroppo l'esperienza non è stata all'altezza. Pietanze fredde e poco fresche .... Da migliorare.. Struttura ben tenuta,F&B,negativo,purtroppo lesperienza stata allaltezza pietanze fredde poco fresche migliorare struttura ben tenuta
+241,Esperienza negativa,Mi aspettavo molto di più. Il personale del ristorante era disattento.,F&B,negativo,aspettavo molto personale ristorante disattento
+242,Esperienza con il servizio,Mi aspettavo molto di più. Il personale del ristorante era disattento. Da migliorare.. Struttura ben tenuta,F&B,negativo,aspettavo molto personale ristorante disattento migliorare struttura ben tenuta
+243,Non ci siamo,Pietanze fredde e poco fresche . .,F&B,negativo,pietanze fredde poco fresche
+244,Ci aspettavamo di più,Mi aspettavo molto di più. Servizio troppo lento al ristorante.,F&B,negativo,aspettavo molto servizio troppo lento ristorante
+245,Ci aspettavamo di più,Mi aspettavo molto di più. Il ristorante era sempre sovraffollato.,F&B,negativo,aspettavo molto ristorante sempre sovraffollato
+246,Così così esperienza,Mi aspettavo molto di più. Poca scelta al buffet.,F&B,negativo,aspettavo molto poca scelta buffet
+247,Ci aspettavamo di più,Soggiorno deludente. Cibo davvero mediocre.. Prezzo nella media,F&B,negativo,soggiorno deludente cibo davvero mediocre prezzo media
+248,Ci aspettavamo di più,Tempi di attesa troppo lunghi per ordinare.,F&B,negativo,tempi attesa troppo lunghi ordinare
+249,Sconsigliato,Mi aspettavo molto di più. Il ristorante era sempre sovraffollato. Non credo tornerò.. Struttura ben tenuta,F&B,negativo,aspettavo molto ristorante sempre sovraffollato credo tornerò struttura ben tenuta
+250,Meh,Mi aspettavo molto di più. Cibo freddo e di bassa qualità.. Servizio migliorabile,F&B,negativo,aspettavo molto cibo freddo bassa qualità servizio migliorabile
+251,Camera impeccabile,"Ho trascorso un eccellente soggiorno. bagno pulito. Nonostante ciò, poca scelta al buffet. Tornerei volentieri. (durante un viaggio veloce)",Housekeeping,positivo,trascorso eccellente soggiorno bagno pulito nonostante ciò poca scelta buffet tornerei volentieri durante viaggio veloce
+252,Tutto perfetto,Ho trascorso un molto buono soggiorno. stanza perfetta.,Housekeeping,positivo,trascorso molto buono soggiorno stanza perfetta
+253,Esperienza con il servizio,stanza perfetta. Consigliato.,Housekeeping,positivo,stanza perfetta consigliato
+254,Buona esperienza,Esperienza generalmente positiva. bagno pulito. Consigliato.. Struttura ben tenuta,Housekeeping,positivo,esperienza generalmente positiva bagno pulito consigliato struttura ben tenuta
+255,Non male,stanza perfetta. Tornerei volentieri.. Struttura ben tenuta,Housekeeping,positivo,stanza perfetta tornerei volentieri struttura ben tenuta
+256,Servizio eccellente,Nel complesso il soggiorno è stato molto piacevole. tutto ok. Tornerei volentieri. (nel weekend),Housekeeping,positivo,complesso soggiorno stato molto piacevole ok tornerei volentieri weekend
+257,Camera impeccabile,Ho trascorso un ottimo soggiorno. bagno pulito. (per una notte). Prezzo nella media,Housekeeping,positivo,trascorso ottimo soggiorno bagno pulito notte prezzo media
+258,Esperienza positiva,stanza perfetta. Consigliato. (per lavoro). Prezzo nella media,Housekeeping,positivo,stanza perfetta consigliato lavoro prezzo media
+259,Stanza curata,tutto ok. Tornerei volentieri.. Servizio migliorabile,Housekeeping,positivo,ok tornerei volentieri servizio migliorabile
+260,Tutto perfetto,Esperienza generalmente positiva. stanza perfetta.,Housekeeping,positivo,esperienza generalmente positiva stanza perfetta
+261,camera sporca da rivedere,camera sporca. Non credo tornerò.. Struttura ben tenuta,Housekeeping,negativo,camera sporca credo tornerò struttura ben tenuta
+262,Esperienza ok,Soggiorno deludente. lenzuola sporche .,Housekeeping,negativo,soggiorno deludente lenzuola sporche
+263,Esperienza negativa,"Soggiorno deludente. camera sporca. Tuttavia, risposta rapida a ogni richiesta. (durante un viaggio veloce)",Housekeeping,negativo,soggiorno deludente camera sporca tuttavia risposta rapida ogni richiesta durante viaggio veloce
+264,Ci aspettavamo di più,Mi aspettavo molto di più. camera sporca.. Prezzo nella media,Housekeeping,negativo,aspettavo molto camera sporca prezzo media
+265,Sconsigliato,Mi aspettavo molto di più. odore terribile.,Housekeeping,negativo,aspettavo molto odore terribile
+266,Problemi con il servizio,odore terribile. Non credo tornerò.,Housekeeping,negativo,odore terribile credo tornerò
+267,Esperienza ok,Purtroppo l'esperienza non è stata all'altezza. odore terribile.. Struttura ben tenuta,Housekeeping,negativo,purtroppo lesperienza stata allaltezza odore terribile struttura ben tenuta
+268,Esperienza ok,Soggiorno deludente. odore terribile. (in alta stagione),Housekeeping,negativo,soggiorno deludente odore terribile alta stagione
+269,Deludente,lenzuola sporche . .,Housekeeping,negativo,lenzuola sporche
+270,Deludente,Purtroppo l'esperienza non è stata all'altezza. lenzuola sporche ... (in alta stagione),Housekeeping,negativo,purtroppo lesperienza stata allaltezza lenzuola sporche alta stagione
+271,Esperienza con il servizio,Esperienza generalmente positiva. pagamento ok. Consigliato. (in alta stagione). Struttura ben tenuta,Reception,positivo,esperienza generalmente positiva pagamento ok consigliato alta stagione struttura ben tenuta
+272,Staff fantastico,pagamento ok.. Servizio migliorabile,Reception,positivo,pagamento ok servizio migliorabile
+273,Molto soddisfatto,Esperienza generalmente positiva. staff disponibile. (per una notte). Struttura ben tenuta,Reception,positivo,esperienza generalmente positiva staff disponibile notte struttura ben tenuta
+274,Servizio eccellente,pagamento ok. Tornerei volentieri.,Reception,positivo,pagamento ok tornerei volentieri
+275,Esperienza positiva,Ho trascorso un ottimo soggiorno. staff disponibile.,Reception,positivo,trascorso ottimo soggiorno staff disponibile
+276,Non male,Esperienza generalmente positiva. pagamento ok. Consigliato. (nel weekend),Reception,positivo,esperienza generalmente positiva pagamento ok consigliato weekend
+277,Buona esperienza,Esperienza generalmente positiva. pagamento ok. Tornerei volentieri.,Reception,positivo,esperienza generalmente positiva pagamento ok tornerei volentieri
+278,Check-in perfetto,Ho trascorso un ottimo soggiorno. tutto rapido. Tornerei volentieri. (per lavoro),Reception,positivo,trascorso ottimo soggiorno rapido tornerei volentieri lavoro
+279,Esperienza con il servizio,Ho trascorso un molto buono soggiorno. staff disponibile.,Reception,positivo,trascorso molto buono soggiorno staff disponibile
+280,Esperienza positiva,Esperienza generalmente positiva. staff disponibile.,Reception,positivo,esperienza generalmente positiva staff disponibile
+281,Meh,personale scostumato. Non credo tornerò.. Prezzo nella media,Reception,negativo,personale scostumato credo tornerò prezzo media
+282,Esperienza ok,Mi aspettavo molto di più. reception pessima.. Struttura ben tenuta,Reception,negativo,aspettavo molto reception pessima struttura ben tenuta
+283,Meh,Purtroppo l'esperienza non è stata all'altezza. personale scostumato.,Reception,negativo,purtroppo lesperienza stata allaltezza personale scostumato
+284,Meh,Soggiorno deludente. attesa infinita.,Reception,negativo,soggiorno deludente attesa infinita
+285,Staff scortese,Soggiorno deludente. personale scostumato.,Reception,negativo,soggiorno deludente personale scostumato
+286,Deludente,Mi aspettavo molto di più. personale scostumato. Da migliorare.. Servizio migliorabile,Reception,negativo,aspettavo molto personale scostumato migliorare servizio migliorabile
+287,Non ci siamo,Purtroppo l'esperienza non è stata all'altezza. personale scostumato. Non credo tornerò.. Prezzo nella media,Reception,negativo,purtroppo lesperienza stata allaltezza personale scostumato credo tornerò prezzo media
+288,Pessima esperienza,Purtroppo l'esperienza non è stata all'altezza. attesa infinita. Da migliorare. (con la mia famiglia),Reception,negativo,purtroppo lesperienza stata allaltezza attesa infinita migliorare famiglia
+289,personale scostumato da rivedere,Soggiorno deludente. personale scostumato.,Reception,negativo,soggiorno deludente personale scostumato
+290,Accoglienza pessima,personale scostumato. (con la mia famiglia). Struttura ben tenuta,Reception,negativo,personale scostumato famiglia struttura ben tenuta
+291,Servizio eccellente,Nel complesso il soggiorno è stato molto piacevole. buffet ottimo. Consigliato.. Struttura ben tenuta,F&B,positivo,complesso soggiorno stato molto piacevole buffet ottimo consigliato struttura ben tenuta
+292,Tutto perfetto,Esperienza generalmente positiva. buffet ottimo.,F&B,positivo,esperienza generalmente positiva buffet ottimo
+293,Ottimo soggiorno,Ho trascorso un molto buono soggiorno. colazione top. Consigliato. (durante un viaggio veloce),F&B,positivo,trascorso molto buono soggiorno colazione top consigliato durante viaggio veloce
+294,Colazione ottima,Ho trascorso un ottimo soggiorno. colazione top. (durante un viaggio veloce). Struttura ben tenuta,F&B,positivo,trascorso ottimo soggiorno colazione top durante viaggio veloce struttura ben tenuta
+295,Ottimo soggiorno,buffet molto buono. Tornerei volentieri.. Struttura ben tenuta,F&B,positivo,buffet molto buono tornerei volentieri struttura ben tenuta
+296,Tutto perfetto,Esperienza generalmente positiva. buffet ottimo.. Prezzo nella media,F&B,positivo,esperienza generalmente positiva buffet ottimo prezzo media
+297,Esperienza con il servizio,Nel complesso il soggiorno è stato molto piacevole. colazione top.,F&B,positivo,complesso soggiorno stato molto piacevole colazione top
+298,Esperienza positiva,Nel complesso il soggiorno è stato molto piacevole. buffet molto buono.,F&B,positivo,complesso soggiorno stato molto piacevole buffet molto buono
+299,Non male,Ho trascorso un eccellente soggiorno. colazione top. Tornerei volentieri.,F&B,positivo,trascorso eccellente soggiorno colazione top tornerei volentieri
+300,Tutto perfetto,colazione top.. Servizio migliorabile,F&B,positivo,colazione top servizio migliorabile
+301,servizio lento da rivedere,Soggiorno deludente. servizio un po' lungo.,F&B,negativo,soggiorno deludente servizio po lungo
+302,Ci aspettavamo di più,Mi aspettavo molto di più. servizio un po' lungo.,F&B,negativo,aspettavo molto servizio po lungo
+303,Deludente,Purtroppo l'esperienza non è stata all'altezza. cibo pessimo.,F&B,negativo,purtroppo lesperienza stata allaltezza cibo pessimo
+304,Cibo scadente,Soggiorno deludente. ristorante pienissimo.,F&B,negativo,soggiorno deludente ristorante pienissimo
+305,Esperienza negativa,"Purtroppo l'esperienza non è stata all'altezza. ristorante pienissimo. Nonostante ciò, nessun problema con prenotazione e pagamento.. Servizio migliorabile",F&B,negativo,purtroppo lesperienza stata allaltezza ristorante pienissimo nonostante ciò nessun problema prenotazione pagamento servizio migliorabile
+306,Esperienza ok,Soggiorno deludente. ristorante pienissimo.. Servizio migliorabile,F&B,negativo,soggiorno deludente ristorante pienissimo servizio migliorabile
+307,Esperienza ok,"cibo pessimo. Però, risposta rapida a ogni richiesta.",F&B,negativo,cibo pessimo però risposta rapida ogni richiesta
+308,Problemi con il servizio,Purtroppo l'esperienza non è stata all'altezza. mai più.,F&B,negativo,purtroppo lesperienza stata allaltezza mai
+309,Esperienza negativa,ristorante pienissimo.. Servizio migliorabile,F&B,negativo,ristorante pienissimo servizio migliorabile
+310,Esperienza negativa,ristorante pienissimo. Da migliorare. (con la mia famiglia),F&B,negativo,ristorante pienissimo migliorare famiglia
+311,Non ci siamo,"Soggiorno deludente. Tutto era in ordine all'arrivo, però menu limitato e ripetitivo. Da migliorare.",F&B,negativo,soggiorno deludente ordine allarrivo però menu limitato ripetitivo migliorare
+312,Esperienza ok,"Purtroppo l'esperienza non è stata all'altezza. Il ristorante aveva un'ottima atmosfera, però ho trovato capelli nel bagno.",Housekeeping,negativo,purtroppo lesperienza stata allaltezza ristorante unottima atmosfera però trovato capelli bagno
+313,Deludente,"Mi aspettavo molto di più. Risposta rapida a ogni richiesta, però stanza non ben sistemata al momento del check-in.. Servizio migliorabile",Housekeeping,negativo,aspettavo molto risposta rapida ogni richiesta però stanza ben sistemata momento checkin servizio migliorabile
+314,Deludente,"Mi aspettavo molto di più. Colazione abbondante e varia, fantasici i pancakes, però la pulizia lasciava molto a desiderare.... Da migliorare. (in alta stagione). Servizio migliorabile",Housekeeping,negativo,aspettavo molto colazione abbondante varia fantasici pancakes però pulizia lasciava molto desiderare migliorare alta stagione servizio migliorabile
+315,Deludente,"Soggiorno deludente. Porzioni abbondanti e prezzi onesti, però personale scortese alla reception. (per lavoro). Servizio migliorabile",Reception,negativo,soggiorno deludente porzioni abbondanti prezzi onesti però personale scortese reception lavoro servizio migliorabile
+316,Buffet ricco e da rivedere,"Soggiorno deludente. Buffet ricco e sempre rifornito, però ho trovato capelli nel bagno.",Housekeeping,negativo,soggiorno deludente buffet ricco sempre rifornito però trovato capelli bagno
+317,Deludente,"Mi aspettavo molto di più. Il bagno era perfettamente pulito, però nessuno alla reception all'arrivo.",Reception,negativo,aspettavo molto bagno perfettamente pulito però nessuno reception allarrivo
+318,Esperienza negativa,"Soggiorno deludente. Personale cordiale e professionale, però tempi di attesa troppo lunghi per ordinare.",F&B,negativo,soggiorno deludente personale cordiale professionale però tempi attesa troppo lunghi ordinare
+319,Esperienza negativa,"Mi aspettavo molto di più. Reception molto disponibile, però esperienza deludente al ristorante.",F&B,negativo,aspettavo molto reception molto disponibile però esperienza deludente ristorante
+320,Non ci siamo,"Risposta rapida a ogni richiesta, però ho trovato capelli nel bagno. Non credo tornerò.. Servizio migliorabile",Housekeeping,negativo,risposta rapida ogni richiesta però trovato capelli bagno credo tornerò servizio migliorabile
+321,Sconsigliato,"Mi aspettavo molto di più. La pulizia della stanza era eccellente, però tempi di attesa troppo lunghi per ordinare.",F&B,negativo,aspettavo molto pulizia stanza eccellente però tempi attesa troppo lunghi ordinare
+322,Deludente,"Soggiorno deludente. Check-in veloce e personale gentile, però esperienza deludente al ristorante. Da migliorare.. Prezzo nella media",F&B,negativo,soggiorno deludente checkin veloce personale gentile però esperienza deludente ristorante migliorare prezzo media
+323,Sconsigliato,"Purtroppo l'esperienza non è stata all'altezza. Asciugamani puliti e cambiati regolarmente, però tempi di attesa troppo lunghi per ordinare.",F&B,negativo,purtroppo lesperienza stata allaltezza asciugamani puliti cambiati regolarmente però tempi attesa troppo lunghi ordinare
+324,Sconsigliato,"Soggiorno deludente. Check-in veloce e personale gentile, però ho trovato capelli nel bagno. Non credo tornerò.. Servizio migliorabile",Housekeeping,negativo,soggiorno deludente checkin veloce personale gentile però trovato capelli bagno credo tornerò servizio migliorabile
+325,Esperienza negativa,"Check-out rapido e senza problemi, receptionist molto simpatico, però cibo scadente e mal presentato.. Prezzo nella media",F&B,negativo,checkout rapido senza problemi receptionist molto simpatico però cibo scadente mal presentato prezzo media
+326,Esperienza con il servizio,"Mi aspettavo molto di più. Servizio accoglienza eccellente, però il ristorante era sempre sovraffollato.",F&B,negativo,aspettavo molto servizio accoglienza eccellente però ristorante sempre sovraffollato
+327,Non ci siamo,"Purtroppo l'esperienza non è stata all'altezza. Tutto era in ordine all'arrivo, però nessuno alla reception all'arrivo.",Reception,negativo,purtroppo lesperienza stata allaltezza ordine allarrivo però nessuno reception allarrivo
+328,Ci aspettavamo di più,"Soggiorno deludente. Lenzuola fresche e cambiate ogni giorno, però piatti arrivati freddi e in ritardo.",F&B,negativo,soggiorno deludente lenzuola fresche cambiate ogni giorno però piatti arrivati freddi ritardo
+329,Non ci siamo,"Ambiente curato e profumato, però personale maleducato e arrogante.",Reception,negativo,ambiente curato profumato però personale maleducato arrogante
+330,Ci aspettavamo di più,"Soggiorno deludente. Porzioni abbondanti e prezzi onesti, però bagno trascurato e poco igienico. (con la mia famiglia). Struttura ben tenuta",Housekeeping,negativo,soggiorno deludente porzioni abbondanti prezzi onesti però bagno trascurato poco igienico famiglia struttura ben tenuta
+331,Check-in perfetto,"Check-in veloce e personale gentile, anche se camera davvero trascurata. Consigliato.. Prezzo nella media",Reception,positivo,checkin veloce personale gentile camera davvero trascurata consigliato prezzo media
+332,Non male,"Porzioni abbondanti e prezzi onesti, anche se problemi con il pagamento. Consigliato.",F&B,positivo,porzioni abbondanti prezzi onesti problemi pagamento consigliato
+333,Buona esperienza,"Esperienza generalmente positiva. Ottima scelta di dolci a colazione, anche se nessuno alla reception all'arrivo. Consigliato.. Servizio migliorabile",F&B,positivo,esperienza generalmente positiva ottima scelta dolci colazione nessuno reception allarrivo consigliato servizio migliorabile
+334,Top!,"Esperienza generalmente positiva. Cibo molto buono e ben servito, anche se risposta lenta alle richieste. (per una notte). Struttura ben tenuta",F&B,positivo,esperienza generalmente positiva cibo molto buono ben servito risposta lenta richieste notte struttura ben tenuta
+335,Esperienza con il servizio,"Personale cordiale e professionale, anche se cibo scadente e mal presentato. Consigliato. (per lavoro). Prezzo nella media",Reception,positivo,personale cordiale professionale cibo scadente mal presentato consigliato lavoro prezzo media
+336,Esperienza positiva,"Nel complesso il soggiorno è stato molto piacevole. La pulizia della stanza era eccellente, anche se receptionist molto indisponente. Consigliato. (nel weekend). Struttura ben tenuta",Housekeeping,positivo,complesso soggiorno stato molto piacevole pulizia stanza eccellente receptionist molto indisponente consigliato weekend struttura ben tenuta
+337,Ottimo soggiorno,"La stanza veniva ben sistemata puntualmente, anche se problemi con il pagamento. Consigliato. (in alta stagione)",Housekeeping,positivo,stanza veniva ben sistemata puntualmente problemi pagamento consigliato alta stagione
+338,Check-in perfetto,"Nel complesso il soggiorno è stato molto piacevole. Nessun problema con prenotazione e pagamento, anche se polvere ovunque nella stanza, improponibile.. Prezzo nella media",Reception,positivo,complesso soggiorno stato molto piacevole nessun problema prenotazione pagamento polvere ovunque stanza improponibile prezzo media
+339,Tutto perfetto,"Ho trascorso un eccellente soggiorno. La camera era molto curata, anche se cibo davvero mediocre. Consigliato. (con la mia famiglia). Servizio migliorabile",Housekeeping,positivo,trascorso eccellente soggiorno camera molto curata cibo davvero mediocre consigliato famiglia servizio migliorabile
+340,Top!,"Personale cordiale e professionale, anche se pietanze fredde e poco fresche ...",Reception,positivo,personale cordiale professionale pietanze fredde poco fresche
+341,Molto soddisfatto,"Ho trascorso un ottimo soggiorno. Il bagno era perfettamente pulito, anche se comportamento davvero scortese.. Prezzo nella media",Housekeeping,positivo,trascorso ottimo soggiorno bagno perfettamente pulito comportamento davvero scortese prezzo media
+342,Molto soddisfatto,"Ho trascorso un ottimo soggiorno. Lenzuola fresche e cambiate ogni giorno, anche se il personale era poco disponibile. Tornerei volentieri.. Prezzo nella media",Housekeeping,positivo,trascorso ottimo soggiorno lenzuola fresche cambiate ogni giorno personale poco disponibile tornerei volentieri prezzo media
+343,Camera impeccabile,"Esperienza generalmente positiva. Tutto era in ordine all'arrivo, anche se staff poco educato. Tornerei volentieri.. Prezzo nella media",Housekeeping,positivo,esperienza generalmente positiva ordine allarrivo staff poco educato tornerei volentieri prezzo media
+344,Buona esperienza,"Asciugamani puliti e cambiati regolarmente, anche se comportamento davvero scortese. Consigliato.",Housekeeping,positivo,asciugamani puliti cambiati regolarmente comportamento davvero scortese consigliato
+345,Tutto perfetto,"Personale cordiale e professionale, anche se le lenzuola non erano state cambiate, che schifo. Consigliato.",Reception,positivo,personale cordiale professionale lenzuola state cambiate schifo consigliato
+346,Molto soddisfatto,"Ho trascorso un molto buono soggiorno. Il receptionist ci ha dato ottime indicazioni, anche se bagno poco pulito e poco igienico.",Reception,positivo,trascorso molto buono soggiorno receptionist dato ottime indicazioni bagno poco pulito poco igienico
+347,Molto soddisfatto,"Pietanze fresche e ben preparate, anche se stanza non ben sistemata al momento del check-in. Tornerei volentieri.",F&B,positivo,pietanze fresche ben preparate stanza ben sistemata momento checkin tornerei volentieri
+348,Esperienza positiva,"Nel complesso il soggiorno è stato molto piacevole. Ottima scelta di dolci a colazione, anche se staff poco educato.",F&B,positivo,complesso soggiorno stato molto piacevole ottima scelta dolci colazione staff poco educato
+349,Tutto perfetto,"Esperienza generalmente positiva. Personale cordiale e professionale, anche se la pulizia lasciava molto a desiderare.",Reception,positivo,esperienza generalmente positiva personale cordiale professionale pulizia lasciava molto desiderare
+350,Buona esperienza,"Pulizia impeccabile, anche se menu limitato e ripetitivo. Consigliato.",Housekeeping,positivo,pulizia impeccabile menu limitato ripetitivo consigliato
