@@ -1,7 +1,7 @@
 # DATASET
 
 * Dataset sintetico creato in Python tramite generatore parametrico.
-* Numero recensioni: circa 340.
+* Numero recensioni: 350 (180 negative, 170 positive; Housekeeping 118, F&B 117, Reception 115).
 * Reparti:
 
   * Housekeeping
@@ -150,13 +150,13 @@ Scelta per:
 
 # Risultati sentiment
 
-* Accuracy: ~94%
+* Accuracy: 97,1%
 * Dataset test: 20%
 * Train/Test split: 80/20
 
 # Considerazioni risultati
 
-* Recall negativo molto alto.
+* Sul test set: recall negativo 1,00, recall positivo 0,94.
 * Il modello intercetta bene recensioni negative.
 * Utile in ambito hotel per individuare rapidamente criticità.
 
@@ -177,13 +177,18 @@ Classificazione multiclass:
 
 # Risultati
 
-* Accuracy: ~90%
+* Accuracy: 91,4%
 
 # Osservazioni
 
+Valori per classe sul test set:
+
+* Housekeeping: F1 0,90
+* F&B: F1 0,92
+* Reception: F1 0,93
+
 ## F&B
 
-* Classe più semplice da identificare.
 * Lessico molto specifico:
 
   * colazione
@@ -381,9 +386,9 @@ Approccio ispirato al principio:
 * aumento variabilità dataset
 * utilizzo embeddings NLP
 
-# ESTENSIONE FUTURA - BATCH PREDICTION
+# BATCH PREDICTION (GIÀ IMPLEMENTATA)
 
-La dashboard verrà estesa con supporto all'upload CSV per:
+La dashboard include già il supporto all'upload CSV per:
 
 * analisi multipla recensioni
 * predizione automatica batch

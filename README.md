@@ -60,11 +60,17 @@ Operazioni eseguite:
 
 ## Sentiment Model
 
-- Accuracy: ~96%
+- Accuracy: 97,1% (F1 macro 0,97)
 
 ## Department Classifier
 
-- Accuracy: ~83%
+- Accuracy: 91,4% (F1 macro 0,91)
+
+## Condizioni di valutazione
+
+- test set di 70 recensioni
+- split 80/20 non stratificato, `random_state=42`
+- `TfidfVectorizer` e `LogisticRegression` con parametri di default di scikit-learn
 
 Il progetto include esempi di recensioni ambigue per simulare casi realistici.
 
@@ -142,6 +148,10 @@ streamlit run app/streamlit_app.py
 * limitata variabilità linguistica
 * no comprensione semantica reale
 * modelli basati su Bag-of-Words / TF-IDF
+* test set piccolo (70 recensioni)
+* split train/test non stratificato
+* nessuna soglia decisionale per la verifica umana delle predizioni
+* valori di `predict_proba` non calibrati: non sono interpretabili come probabilità di correttezza della predizione
 
 ---
 
